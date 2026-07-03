@@ -1,0 +1,14 @@
+{
+  "api_id": 123456,
+  "api_hash": "YOUR_HASH",
+  "timezone": "America/New_York",
+
+  "update_mode": "both",
+  "interval": 60,
+
+  "bio_template": "You will see this at {time} {emoji}",
+  "name_template": "{emoji} {time}",
+
+  "use_emoji": true,
+  "safe_mode": true
+}
