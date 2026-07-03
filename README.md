@@ -2,7 +2,7 @@
 
 This script updates your Telegram profile information (bio and/or name) at regular intervals and displays the current time based on your selected timezone. It supports configurable update modes, safe rate-limited updates, and optional emoji-based clock indicators.
 
----
+
 
 ## Installation
 
@@ -12,7 +12,7 @@ Install required dependencies using `requirements.txt`:
 pip install -r requirements.txt
 ```
 
----
+
 
 ## Configuration
 
@@ -65,7 +65,7 @@ Example configuration:
 
   * Adds slight randomness to prevent strict update patterns
 
----
+
 
 ## Execution
 
@@ -75,7 +75,7 @@ Run the script using:
 python main.py
 ```
 
----
+
 
 ## Stopping Execution
 
@@ -85,7 +85,7 @@ To stop the script, press:
 Ctrl + C
 ```
 
----
+
 
 ## Notes
 
@@ -94,7 +94,7 @@ Ctrl + C
 * Safe mode is enabled by default to reduce the risk of rate limiting.
 * The script automatically skips updates if no changes are detected.
 
----
+
 
 ## Warning
 
